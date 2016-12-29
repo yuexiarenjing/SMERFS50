@@ -1573,7 +1573,7 @@ C
 C            COMPLETE THE COMPUTATION  FOR THE U-PLOT VECTOR;  NOTE, THE
 C            VECTOR OF U-PLOT DATA IS SORTED UPON RETURN.
              CALL CMPMAX
-     G                   (NS    , 1
+     G                   (NS    , 1LAV
      B                   ,DVAL  , V     )
 C
 C            DETERMINE IF THE CALCULATED DISTANCE IS SIGNIFICANT.
